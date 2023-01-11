@@ -4,10 +4,10 @@
         "slug": "travel-app",
         "version": "1.0.0",
         "orientation": "portrait",
-        "icon": "./assets/restaurants.png",
+        "icon": "./assets/compass.png",
         "userInterfaceStyle": "light",
         "splash": {
-            "image": "./assets/restaurants.png",
+            "image": "./assets/compass.png",
             "resizeMode": "contain",
             "backgroundColor": "#ffffff"
         },
@@ -20,7 +20,7 @@
         },
         "android": {
             "adaptiveIcon": {
-                "foregroundImage": "./assets/adaptive-icon.png",
+                "foregroundImage": "./assets/compass.png",
                 "backgroundColor": "#FFFFFF"
             }
         },
